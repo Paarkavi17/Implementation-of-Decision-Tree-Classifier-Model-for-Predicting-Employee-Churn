@@ -88,6 +88,6 @@ plt.show()
 
 ## Output:
 
-![Decision Tree Output](Screenshot%202026-03-1320&085650.png)
+![Decision Tree Output](./Screenshot%202026-03-1320&085650.png)
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
