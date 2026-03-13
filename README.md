@@ -10,8 +10,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Algorithm
 
 1.Import the required Python libraries and create the employee dataset.
+
 2.Preprocess the data by encoding categorical variables and separating features (X) and target (y).
+
 3.Split the dataset into training and testing sets, then train the Decision Tree Classifier model.
+
 4.Predict the test results, evaluate the model using accuracy/confusion matrix, and visualize the decision tree. 
 
 ## Program:
