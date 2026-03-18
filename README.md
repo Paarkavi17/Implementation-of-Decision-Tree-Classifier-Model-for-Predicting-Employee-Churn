@@ -19,6 +19,9 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Program:
 ```
+DEVELOPED BY: PAARKAVI A
+REG NO: 212225040292
+# Import Libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
@@ -87,6 +90,10 @@ plt.show()
 ```
 
 ## Output:
+
+<img width="1535" height="945" alt="Screenshot 2026-03-13 090548" src="https://github.com/user-attachments/assets/2121fbe1-a3d4-4fe8-bbe6-e22f681ffa34" />
+
+<img width="1282" height="683" alt="Screenshot 2026-03-13 085650" src="https://github.com/user-attachments/assets/36641458-dd70-4067-94cd-55160f2df6e2" />
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
